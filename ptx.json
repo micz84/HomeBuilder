@@ -1,0 +1,23 @@
+{
+    "name": "Home builder",
+    "version": "0.0.1",
+    "description": "Build simple homes!",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [
+        
+    ],
+    "targetVersions": {
+        "target": "1.7.21",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
